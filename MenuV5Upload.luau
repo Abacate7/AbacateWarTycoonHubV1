@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Abacate7/PrivateAbacateHubV1/main/MenuV5OB.luau?token=GHSAT0AAAAAACV6QWY3SIIRQQLMWDWHQ77CZVYA7FQ'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Abacate7/v1wartyscript/main/v1menu'))()
